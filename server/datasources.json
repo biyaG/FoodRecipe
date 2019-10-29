@@ -1,0 +1,1 @@
+{"db":{"host":"localhost","port":27017,"url":"","database":"Recipe","password":"","name":"db","user":"","connector":"mongodb"}}
